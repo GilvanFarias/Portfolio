@@ -8,7 +8,7 @@ Aqui vou guardar exemplos, estudos e trabalhos que estou desenvolvendo.
 ## 🚀 Sobre mim
 - Estou aprendendo programação.
 - Quero crescer na área de tecnologia.
-- Contato: [Meu LinkedIn](https://www.linkedin.com/in/gilvan-farias-076ab9103/) | [Meu Email](mailto:seuemail@gmail.com)
+- Contato: [Meu LinkedIn](https://www.linkedin.com/in/gilvan-farias-076ab9103/) | [Meu Email](mailto:gilvan.farias995@gmail.com)
 
 ---
 

@@ -13,7 +13,7 @@ Aqui vou guardar exemplos, estudos e trabalhos que estou desenvolvendo.
 ---
 
 ## 📂 Projetos
-- Projeto 1 → em breve
+- Projeto 1 → Site Pessoal
 - Projeto 2 → em breve
 
 ---
